@@ -1,8 +1,9 @@
-### Teste de Software com java
-##### atividades para testar o sistema feitas na aula de teste de software com Java
+# Teste de Software com java
+###### atividades para testar o sistema feitas na aula de teste de software com Java
 
+<br>
 
-##### Pasta -> Locação de bikes - Assertions ( Testes de erros )
+##### Pasta -> Locação de bikes / Arquivo -> AssertivasTest.java - Assertions
 ###### Aprendemos a usar os assertions para testar o software
 - assertAll
 - assertEquals
@@ -11,5 +12,6 @@
 - assertFalse
 - assertNull
 
+
 #### Pasta -> Metodologia DataBuilder 
-###### Usando a metodologia DataBuilder para criar objetos a partir de atributos em um locador de filmes
+###### usamos a metodologia DataBuilder para criar objetos a partir de atributos em um locador de filmes
