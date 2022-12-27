@@ -3,8 +3,8 @@
 
 <br>
 
-##### Pasta -> Locação de bikes / Arquivo -> AssertivasTest.java - Assertions
-###### Aprendemos a usar os assertions para testar o software
+#### Pasta -> Locação de bikes / Arquivo -> AssertivasTest.java - Assertions
+###### Aprendemos a usar os assertions para testar o software.
 - assertAll
 - assertEquals
 - assertNotEquals
@@ -14,4 +14,7 @@
 
 
 #### Pasta -> Metodologia DataBuilder 
-###### usamos a metodologia DataBuilder para criar objetos a partir de atributos em um locador de filmes
+###### usamos a metodologia DataBuilder para criar objetos a partir de atributos em um locador de filmes.
+
+#### Pasta -> TesteDeSistema
+###### Testamos automação de navegação com java.
